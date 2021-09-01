@@ -1,4 +1,4 @@
-# YouTube-Link-Reducer
+# YouTube Link Reducer
 YouTube Link Reducer is the first and an old project I made when I begun coding with Visual Basic .NET in fall-2014. This very tiny app is based on .NET Framework 2.0, and this is basically a very simple and stupid piece of code who replace the "long" YouTube URL format (`https://www.youtube.com/watch?v=`) by the "short" format (`https://youtube.be/`).
 
 It is also the only source code from this period that I have managed to keep over the years, the others were lost when the hard drive of my 2 previous PCs stopped working, one in 2016 and the other in 2018.
